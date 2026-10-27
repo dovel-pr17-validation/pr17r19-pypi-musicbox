@@ -57,7 +57,7 @@ exclude = [".poetry-cache", ".venv", ".git"]
 
 [dependency-groups]
 dev = [
-  "pytest>=8.3",
+  "pytest>=9.1.1",
   "ruff>=0.15",
   "ty>=0.0.40",
   "pre-commit>=4.6",
